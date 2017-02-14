@@ -1,7 +1,7 @@
 
 /*********************
 *
-* Credit: Sonny Prince - co-developer of google-maps.js
+* Credit: Sonny Prince - co-developer of maps.js
 * https://github.com/sonnyprince
 *
 ***********************/
@@ -45,31 +45,6 @@ var maps = (function ($) {
 			},
 			{
 				popupmap: {
-					"markers": [{
-						"lat": "-34.397",
-						"long": "150.644",
-						"popUpConfig":[{
-							"content": "Lorem ipsum marker 1 info"
-						}]
-					},
-					{
-						"lat":"-33.923036",
-						"long":"151.259052",
-						"popUpConfig":[{
-							"content": "Lorem ipsum marker 2 info"
-						}]
-					},
-					{
-						"lat":"-34.028249",
-						"long":"151.157507",
-						"popUpConfig":[{
-							"content": "Lorem ipsum marker 3 info"
-						}]
-					}]
-				}
-			},
-			{
-				customstyling: {
 					"markers": [{
 						"lat": "-34.397",
 						"long": "150.644",
