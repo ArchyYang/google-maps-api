@@ -6,7 +6,7 @@ Maps template using Google Maps API. Contains following map types:
 - Mutltiple marker map
 - Popup info window map
 
-To use the template, generate your own API key [here](https://developers.google.com/maps/documentation/javascript/get-api-key)
+To use the template, you'll need to generate an API key [here](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 Once you have generated a key, add it to the following script tag in index.html, replacing 'YOUR_API_KEY' with the key you have generated:
 
